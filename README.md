@@ -42,7 +42,7 @@ The **Skill Swap Platform** enables users to:
 | State       | useState, useParams      |
 | Routing     | React Router DOM         |
 
-
+![Homepage Screenshot](h.png)
 
 ## 🔧 How to Run Locally
 
