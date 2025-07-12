@@ -57,7 +57,7 @@ The **Skill Swap Platform** enables users to:
 
 ![Login Screenshot](h1.png)
 
-##Detail Profile
+## Detail Profile
 
 ![Profile Screenshot](h3.png)
 
